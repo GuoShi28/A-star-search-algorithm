@@ -1,4 +1,7 @@
-# A-star-search-algorithm
+# A star search algorithm
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 A homework of algorithm in HIT 
 
 ## Question description
